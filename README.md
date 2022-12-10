@@ -9,7 +9,7 @@ You can grab the cdn link down below :
 </code></pre>
 The documentation link :
 
-https://github.com/JcerelusDev/IroutJs/wiki
+https://github.com/JcerelusDev/IrouteJs/wiki
 
 
 
