@@ -5,7 +5,7 @@ It can be used within any project,whether you are using vanilla js or any other 
 
 You can grab the cdn link down below :
 <pre><code>
-&lt;script src="https://cdn.jsdelivr.net/gh/JcerelusDev/IroutJs/Js/iroute.min.js"&gt;&lt;/script&gt;
+&lt;script src="https://cdn.jsdelivr.net/gh/JcerelusDev/IrouteJs/Js/iroute.min.js"&gt;&lt;/script&gt;
 </code></pre>
 The documentation link :
 
