@@ -1,4 +1,4 @@
 var About =()=>{
- return b = "This is About Page"
+ return  "This is About Page"
  
 }
