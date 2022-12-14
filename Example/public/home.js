@@ -1,4 +1,4 @@
 var Home = function(){
-return a = "This is Home Page"
+return  "This is Home Page"
 
 }
