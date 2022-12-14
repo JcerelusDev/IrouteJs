@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title></title>
+ <meta name="viewport" content="width=device-width, height=device-height,user-scalable=no,initial-scale=1.0">
+</head>
+<body>
+
+
+
+<nav>
+<a router-link="/">Home</a>
+<a router-link="/about">About</a>
+<a router-link="/contact">Contact</a>
+</nav>
+
+
+<br><br>
+<div id="root"></div>
+
+<router-routes link ="/" components ="Home" />
+<router-routes link ="/about" components ="About" />
+<router-routes link ="/contact" components ="Contact" />
+
+
+<script src="https://cdn.jsdelivr.net/gh/JcerelusDev/IrouteJs/Js/iroute.min.js"></script>
+<script src="home.js"></script>
+<script src="about.js"></script>
+<script src="contact.js"></script>
+
+
+
+
+</body>
+</html>
