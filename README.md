@@ -15,6 +15,8 @@ The documentation link :
 
 https://github.com/JcerelusDev/IrouteJs/wiki
 
+#IMPORTANT :
+sometimes there's problem with cdn, you can either clone it or download js file directly
 
 
 Jcerelus Dev All Rights Reserved 
