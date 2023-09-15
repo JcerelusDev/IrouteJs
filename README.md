@@ -12,9 +12,9 @@ You can grab the cdn link down below :
 &lt;script src="https://cdn.jsdelivr.net/gh/JcerelusDev/IrouteJs/Js/iroute.min.js"&gt;&lt;/script&gt;
 </code></pre>
 The documentation link :
-```html
+
 <a href="https://github.com/JcerelusDev/IrouteJs/wiki">IrouteJs docs</a>
-```
+
 
 #IMPORTANT :
 sometimes there's problem with cdn, you can either clone it or download js file directly
