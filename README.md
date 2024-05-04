@@ -1,6 +1,6 @@
 # IrouteJs
 Is a stand alone library created for SPA based website.
-It can be used within any project,whether you are using vanilla js or any other existing library.
+It can be used with project using only vanilla js 
 
 ## Good to know :
 It is designed to work with both web component based websites or functional based websites.
