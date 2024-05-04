@@ -4,7 +4,7 @@ It can be used with project using only vanilla js
 
 ## Good to know :
 It is designed to work with both web component based websites or functional based websites.
-You'll descover more about those two concepts later on in the docs.
+You'll discover more about those two concepts later on in the docs.
 
 
 You can grab the cdn link down below :
