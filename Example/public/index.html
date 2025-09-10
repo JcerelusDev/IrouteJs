@@ -5,9 +5,6 @@
  <meta name="viewport" content="width=device-width,user-scalable=no,initial-scale=1.0">
 </head>
 <body>
-
-
-
 <nav>
 <a router-link="/">Home</a>
 <a router-link="/about">About</a>
@@ -19,7 +16,7 @@
 <div id="root"></div>
 
 <router-routes link ="/" components ="Home()" />
-<router-routes link ="/about" components ="`<about-page/>`" />
+<router-routes link ="/about" components ="'<about-page/>'" />
 <router-routes link ="/contact" components ="Contact()" />
 
 <!-- if cdn doesn't work, you may download iroute.min.js file from the IrouteJs repository or clone it. -->
